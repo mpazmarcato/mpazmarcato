@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/mpazmarcato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpazmarcato&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpazmarcato&layout=compact&langs_count=10&theme=tokyonight"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpazmarcato&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpazmarcato&layout=compact&langs_count=10&theme=midnight-purple"/>   
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,6 @@
 <div>
   <a href = "mailto:mpazmarcato02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  [![Paz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mpazmarcato&theme=vue&line=ff7033&point=df2063&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <!--
