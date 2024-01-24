@@ -21,9 +21,9 @@
 </div>
 
  ##
- ## Projetos Destacados
+ ## Highlighted Projects
 
-- [Sistema gerenciador de Banco de Dados](https://github.com/RamonJales/projeto-itp) - Simulação de um sistema gerenciador de banco de dados feito em C para a disciplina de Introdução as Técnicas de programação.
+- [Sistema gerenciador de Banco de Dados](https://github.com/RamonJales/projeto-itp) - Simulation of a database management system implemented in C for Introdução as Técnicas de programação.
   
 <div>
   <a href = "mailto:mpazmarcato02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
