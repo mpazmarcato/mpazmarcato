@@ -1,7 +1,7 @@
 ### Hi there 👋, I am María Paz!
 
 - 🔭 I am an undergraduate student pursuing a Bachelor of Information Technology at UFRN-IMD.
-- 🌱 I am currently learning C++.
+- 🌱 I am currently learning C++, JS and Java.
 - 🔭 I have a keen interest in cybersecurity and back-end development. 
 
 <div align="center">
