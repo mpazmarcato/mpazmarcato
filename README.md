@@ -12,7 +12,7 @@
 </div>
 
  ##    
-- 💻 **Linguagens de Programação:**
+- 💻 **Programming Languages:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" alt="mpazmarcato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mpazmarcato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +25,7 @@
 </div>
  
  ##
-- 🛠️ **Tecnologias e Ferramentas:**
+- 🛠️ **Tecnologies and tools:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" alt="mpazmarcato-LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
   <img align="center" alt="mpazmarcato-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
