@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpazmarcato&layout=compact&langs_count=10&theme=midnight-purple"/>   
 </div>
     
-<span style="margin-bottom: 10px; display: inline-block;">- 💻 **Linguagens de Programação:**
+- 💻 **Linguagens de Programação:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" alt="mpazmarcato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mpazmarcato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,8 +22,9 @@
   <img align="center" alt="mpazmarcato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mpazmarcato-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
 </div>
-
-<span style="margin-bottom: 10px; display: inline-block;">- 🛠️ **Tecnologias e Ferramentas:**
+ 
+ ##
+- 🛠️ **Tecnologias e Ferramentas:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" alt="mpazmarcato-LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
   <img align="center" alt="mpazmarcato-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
