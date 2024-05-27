@@ -2,7 +2,8 @@
 
 - 🔭 I am an undergraduate student pursuing a Bachelor of Information Technology at UFRN-IMD.
 - 🌱 I am currently learning C++, JS and Java.
-- 🔭 I have a keen interest in cybersecurity and back-end development. 
+- 🔭 I have a keen interest in cybersecurity and back-end development.
+- Emotionally attached to discrete mathematics and proof assistants.
 
 <div align="center">
   <a href="https://github.com/mpazmarcato">
