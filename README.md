@@ -23,8 +23,8 @@
   <img align="center" alt="mpazmarcato-haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />                  
 </div>
 
-- 🛠️ **Tecnologias e Ferramentas:**
-<div style="display: inline_block"><br>
+<div style="margin-bottom: 10px; margin-top: 20px;">- 🛠️ **Tecnologias e Ferramentas:**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" alt="mpazmarcato-latex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
   <img align="center" alt="mpazmarcato-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img align="center" alt="mpazmarcato-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
