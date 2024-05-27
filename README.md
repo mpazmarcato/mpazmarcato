@@ -10,7 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpazmarcato&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpazmarcato&layout=compact&langs_count=10&theme=midnight-purple"/>   
 </div>
-    
+
+ ##    
 - 💻 **Linguagens de Programação:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" alt="mpazmarcato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
