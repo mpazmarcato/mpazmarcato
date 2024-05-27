@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpazmarcato&layout=compact&langs_count=10&theme=midnight-purple"/>   
 </div>
 
+
+- 💻 **Linguagens de Programação:**
 <div style="display: inline_block"><br>
   <img align="center" alt="mpazmarcato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mpazmarcato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,14 +21,17 @@
   <img align="center" alt="mpazmarcato-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
   <img align="center" alt="mpazmarcato-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img align="center" alt="mpazmarcato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mpazmarcato-haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+  <img align="center" alt="mpazmarcato-haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />                  
+</div>
+
+- 🛠️ **Tecnologias e Ferramentas:**
+<div style="display: inline_block"><br>
   <img align="center" alt="mpazmarcato-latex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
   <img align="center" alt="mpazmarcato-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img align="center" alt="mpazmarcato-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="mpazmarcato-airflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
-                    
 </div>
-
+ 
  ##
  ## Highlighted Projects
 
