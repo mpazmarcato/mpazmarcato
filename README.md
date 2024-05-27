@@ -33,7 +33,7 @@
   <img align="center" alt="mpazmarcato-Airflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
 </div>
 
- ##
+
  ## Highlighted Projects
 
 - [Sistema Gerenciador de Banco de Dados](https://github.com/RamonJales/projeto-itp) - Simulation of a Database Management System implemented in C for Introdução as Técnicas de Programação.
