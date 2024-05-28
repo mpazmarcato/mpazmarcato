@@ -24,8 +24,8 @@
   <img align="center" alt="mpazmarcato-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
 </div>
  
- ##
-- 🛠️ **Tecnologies and tools:**
+ ## 
+ ## - 🛠️ **Tecnologies and tools:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" alt="mpazmarcato-LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
   <img align="center" alt="mpazmarcato-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
