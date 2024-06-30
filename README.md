@@ -37,6 +37,7 @@
  ## Highlighted Projects
 
 - [Sistema Gerenciador de Banco de Dados](https://github.com/RamonJales/projeto-itp) - Simulation of a Database Management System implemented in C for Introdução as Técnicas de Programação.
+- [Sistema Gerenciador de Astronautas e Voos](https://github.com/mpazmarcato/ProjetoGalatico) - Simulation of an Astronaut Database Management System implemented in C++ for LP1.
 - [Bot registrador de dados ligado a Banco de Dados](https://github.com/mpazmarcato/botregistro) - Bot registers messages in Discord foruns and attribute points for each of them.
   
 <div>
