@@ -1,9 +1,7 @@
-### Hi there 👋, I am María Paz!
+# Hello, I'm Paz!
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 🔭 I am an undergraduate student pursuing a Bachelor of Information Technology at UFRN-IMD.
-- 🌱 I am currently learning C++, JS and Java.
-- 🔭 I have a keen interest in back-end development.
-- Status: emotionally attached to discrete mathematics and proof assistants.
+I am an undergraduate student pursuing a Bachelor of Information Technology at UFRN-IMD. I am currently learning Java. I have a dedication to solving complex problems and a profound discrete mathematics and proof assistants.
 
 <div align="center">
   <a href="https://github.com/mpazmarcato">
