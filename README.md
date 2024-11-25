@@ -1,5 +1,5 @@
 # Hello, I'm Paz!
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mar%C3%ADa-marcato-582083217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 I am an undergraduate student pursuing a Bachelor of Information Technology at UFRN-IMD. I am currently learning Java. I have a dedication to solving complex problems and a profound discrete mathematics and proof assistants.
 
