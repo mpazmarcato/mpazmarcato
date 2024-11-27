@@ -3,7 +3,8 @@
 <a href = "mailto:mpazmarcato02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
-I am an undergraduate student pursuing a Bachelor of Information Technology at UFRN-IMD. I am currently learning Java. I have a dedication to solving complex problems and a profound discrete mathematics and proof assistants.
+I am an undergraduate student pursuing a Bachelor of Information Technology at UFRN-IMD. I am currently learning Java. I am dedicated
+to solving complex problems and a profound discrete mathematics and proof assistants.
 
 <div align="center">
   <a href="https://github.com/mpazmarcato">
