@@ -1,5 +1,7 @@
 # Hello, I'm Paz!
 <a href="https://www.linkedin.com/in/mar%C3%ADa-marcato-582083217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:mpazmarcato02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 
 I am an undergraduate student pursuing a Bachelor of Information Technology at UFRN-IMD. I am currently learning Java. I have a dedication to solving complex problems and a profound discrete mathematics and proof assistants.
 
@@ -41,12 +43,6 @@ I am an undergraduate student pursuing a Bachelor of Information Technology at U
 - [Sistema Gerenciador de Astronautas e Voos](https://github.com/mpazmarcato/ProjetoGalatico) - Simulation of an Astronaut Database Management System implemented in C++ for LP1.
 - [Sistema Gerenciador de Banco de Dados](https://github.com/RamonJales/projeto-itp) - Simulation of a Database Management System implemented in C for Introdução as Técnicas de Programação.
 - [Sistema Gerenciador de Viagens](https://github.com/mpazmarcato/travel-system) - Simulation of a Travelling Database Management System implemented in C++ for LP1.
-
-  
-<div>
-  <a href = "mailto:mpazmarcato02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
 
 <!--
 **mpazmarcato/mpazmarcato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
