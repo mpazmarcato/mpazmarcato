@@ -5,7 +5,6 @@ I am an undergraduate student pursuing a Bachelor of Information Technology at U
 
 <div align="center">
   <a href="https://github.com/mpazmarcato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpazmarcato&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpazmarcato&layout=compact&langs_count=10&theme=midnight-purple"/>   
 </div>
 
